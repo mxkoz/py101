@@ -1,0 +1,11 @@
+{
+    "EN": {
+         "welcome": "Welcome to Calculator!",
+         "invalid_number": "Hmm... that doesn't look like a valid number."
+   },
+   "FR": {
+         "welcome": "bonjour pal!",
+         "invalid_number": "oui oui... that doesn't look like a valid number."
+   }
+ 
+ }
