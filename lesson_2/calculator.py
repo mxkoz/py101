@@ -32,7 +32,7 @@ def invalid_number(number_str):
     return False
 
 #Set a default language
-language = 'FR'
+language = 'EN'
 
 want_to_calculate = True
 while want_to_calculate:
